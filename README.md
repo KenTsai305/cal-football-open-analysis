@@ -59,7 +59,7 @@ Sharing the report link, opening issues, proposing sourced corrections and contr
 
 Third-party articles, ratings, datasets and other source material retain their respective owners' rights and applicable terms. This repository grants no license to those materials and makes no representation that they are cleared for commercial use. Anyone reusing source-derived observations, especially commercially, must assess the relevant source terms and obtain any permissions their intended use requires. Source links and inclusion here do not establish ownership or permission. No claim is made to exclusive rights over facts in the public domain.
 
-A reuse license for original project code and writing has not yet been selected. Until an explicit license is added, do not describe all repository content as permissively licensed open source. Contributions must be your own work or material you have permission to submit, with any third-party attribution and license requirements disclosed.
+Original project code is licensed under [MIT](LICENSE), and original writing under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), allowing sharing and adaptation, including commercial reuse of those original materials, subject to their terms. **These licenses do not grant rights to third-party or source-derived data.** See [licensing scope and attribution](LICENSING.md). Contributions must be your own work or material you have permission to submit, with any third-party attribution and license requirements disclosed.
 
 ## Rights and affiliation
 
