@@ -51,6 +51,16 @@ This package uses GitHub Pages, not the previous ChatGPT-hosted site. In reposit
 
 Open an issue for a sourcing or calculation problem. Submit a pull request with sourced CSV corrections or additional reproducible analyses. Alternative analyses should distinguish observations, assumptions and conclusions. No contributor needs to agree with the published assessment.
 
+## Snapshot, completeness and reuse
+
+This is a fixed **October 4, 2026** research snapshot covering games through **October 3, 2026**, not a live feed. GitHub publication did not refresh or independently re-check the source observations. Source pages may subsequently change. The observations are selected and incomplete: coaching-cost disclosures are not consistently comparable, some adjusted game ratings are unavailable or excluded, and the underlying publishers' complete datasets are not included. Missing values remain blank and must not be treated as zero.
+
+Sharing the report link, opening issues, proposing sourced corrections and contributing independent analyses are welcome. Preserve source attribution, snapshot dates and limitations; identify changes clearly. Public availability alone is not a blanket license to reuse every item in the repository.
+
+Third-party articles, ratings, datasets and other source material retain their respective owners' rights and applicable terms. This repository grants no license to those materials and makes no representation that they are cleared for commercial use. Anyone reusing source-derived observations, especially commercially, must assess the relevant source terms and obtain any permissions their intended use requires. Source links and inclusion here do not establish ownership or permission. No claim is made to exclusive rights over facts in the public domain.
+
+A reuse license for original project code and writing has not yet been selected. Until an explicit license is added, do not describe all repository content as permissively licensed open source. Contributions must be your own work or material you have permission to submit, with any third-party attribution and license requirements disclosed.
+
 ## Rights and affiliation
 
-Independent analysis; no university affiliation or endorsement. Third-party source material and ratings retain their respective owners' rights. This repository does not grant rights to redistribute an original publisher's complete dataset or article. Source links identify where observations originated. A reuse license for original repository material should be selected explicitly by the repository owner before unrestricted reuse is promised.
+Independent analysis; no university affiliation or endorsement. Opinions and conclusions belong to the author. AI agents assisted with gathering and analyzing observations and with a separate verification pass; those checks do not establish source completeness, causal validity or permission to reuse third-party content.

@@ -12,3 +12,9 @@ Corrections, new observations, methodological challenges and alternative conclus
 For alternative analyses, add a self-contained file under `analyses/` with a method, source dates, execution instructions, limitations and results. Do not overwrite the original conclusion just to impose a different preference. Avoid causal claims that observational comparisons cannot support.
 
 Use issues for discussion and pull requests for reviewed updates. Do not publish credentials, private contracts, personal information, complete copyrighted articles or redistributed commercial datasets without appropriate rights.
+
+## Snapshot and contribution rights
+
+The current snapshot is October 4, 2026, with games through October 3. Publication is not a live data refresh. Preserve unavailable observations and disclosure limitations. Label newer observations as a proposed dated update rather than silently mixing cutoffs.
+
+Submit only your own work or material you have permission to contribute. Identify any third-party material, attribution, license and use restrictions. Publicly accessible source data is not automatically cleared for redistribution or commercial reuse. The project cannot grant rights it does not hold. A license for original project material is pending; contribution discussions and sourced correction proposals are welcome in the meantime.
