@@ -1,0 +1,6 @@
+opponent,date,result,yards,plays,opp_yards,opp_plays,rush_yards,rushes,opp_rush_yards,opp_rushes,penalties,penalty_yards,third_made,third_attempts,fbs,source,off_ypp,def_ypp,rush_avg,opp_rush_avg
+UCLA,Sep 5,L 24–45,410,87,461,54,119,40,277,32,6,59,11,21,True,https://calbears.com/sports/football/stats/2026/ucla/boxscore/38591,4.712643678160919,8.537037037037036,2.975,8.65625
+Syracuse,Sep 12,W 21–18,249,60,437,87,67,26,118,36,9,87,3,13,True,https://calbears.com/sports/football/stats/2026/syracuse/boxscore/38592,4.15,5.022988505747127,2.576923076923077,3.2777777777777777
+Wagner,Sep 19,W 49–7,626,71,198,59,134,28,112,27,8,80,3,9,False,https://calbears.com/sports/football/stats/2026/wagner/boxscore/38593,8.816901408450704,3.3559322033898304,4.785714285714286,4.148148148148148
+Clemson,Sep 25,L 10–24,231,57,363,70,86,27,257,48,8,61,3,12,True,https://calbears.com/sports/football/stats/2026/clemson/boxscore/38594,4.052631578947368,5.185714285714286,3.185185185185185,5.354166666666667
+UNLV,Oct 3,L 31–39,464,83,350,61,69,24,173,38,16,147,5,18,True,https://calbears.com/sports/football/stats/2026/unlv/boxscore/38595,5.590361445783133,5.737704918032787,2.875,4.552631578947368

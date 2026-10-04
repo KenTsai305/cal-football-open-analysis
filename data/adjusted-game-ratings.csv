@@ -1,0 +1,6 @@
+opponent,offense_OGR,defense_DGR,special_teams_SGR,status,offense_source,defense_source,special_teams_source,checked_date
+UCLA,-0.06,-0.18,-0.06,available,https://bcftoys.com/2026-ogr,https://bcftoys.com/2026-dgr,https://bcftoys.com/2026-sgr,2026-10-04
+Syracuse,-0.3,0.07,0.08,available,https://bcftoys.com/2026-ogr,https://bcftoys.com/2026-dgr,https://bcftoys.com/2026-sgr,2026-10-04
+Wagner,,,,excluded_fcs,https://bcftoys.com/2026-ogr,https://bcftoys.com/2026-dgr,https://bcftoys.com/2026-sgr,2026-10-04
+Clemson,-0.36,-0.15,-0.08,available,https://bcftoys.com/2026-ogr,https://bcftoys.com/2026-dgr,https://bcftoys.com/2026-sgr,2026-10-04
+UNLV,,,,unavailable_at_snapshot,https://bcftoys.com/2026-ogr,https://bcftoys.com/2026-dgr,https://bcftoys.com/2026-sgr,2026-10-04

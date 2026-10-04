@@ -1,0 +1,90 @@
+{
+  "games": [
+    {
+      "opponent": "UCLA",
+      "punts": 3,
+      "punt_yards": 138,
+      "punt_return_yards_allowed": 12,
+      "punt_touchbacks": 0,
+      "fg_made": 1,
+      "fg_attempts": 1,
+      "pat_made": 3,
+      "pat_attempts": 3,
+      "kick_returns_allowed": 2,
+      "kick_return_yards_allowed": 56,
+      "return_td_allowed": 0,
+      "net_punt_average": 42.0,
+      "source": "https://calbears.com/sports/football/stats/2026/ucla/boxscore/38591"
+    },
+    {
+      "opponent": "Syracuse",
+      "punts": 7,
+      "punt_yards": 288,
+      "punt_return_yards_allowed": 50,
+      "punt_touchbacks": 0,
+      "fg_made": 0,
+      "fg_attempts": 1,
+      "pat_made": 3,
+      "pat_attempts": 3,
+      "kick_returns_allowed": 1,
+      "kick_return_yards_allowed": 29,
+      "return_td_allowed": 0,
+      "net_punt_average": 34.0,
+      "source": "https://calbears.com/sports/football/stats/2026/syracuse/boxscore/38592"
+    },
+    {
+      "opponent": "Wagner",
+      "punts": 0,
+      "punt_yards": 0,
+      "punt_return_yards_allowed": 0,
+      "punt_touchbacks": 0,
+      "fg_made": 2,
+      "fg_attempts": 3,
+      "pat_made": 5,
+      "pat_attempts": 5,
+      "kick_returns_allowed": 4,
+      "kick_return_yards_allowed": 103,
+      "return_td_allowed": 0,
+      "net_punt_average": null,
+      "source": "https://calbears.com/sports/football/stats/2026/wagner/boxscore/38593"
+    },
+    {
+      "opponent": "Clemson",
+      "punts": 4,
+      "punt_yards": 190,
+      "punt_return_yards_allowed": 72,
+      "punt_touchbacks": 0,
+      "fg_made": 1,
+      "fg_attempts": 2,
+      "pat_made": 1,
+      "pat_attempts": 1,
+      "kick_returns_allowed": 3,
+      "kick_return_yards_allowed": 67,
+      "return_td_allowed": 1,
+      "net_punt_average": 29.5,
+      "source": "https://calbears.com/sports/football/stats/2026/clemson/boxscore/38594"
+    },
+    {
+      "opponent": "UNLV",
+      "punts": 7,
+      "punt_yards": 326,
+      "punt_return_yards_allowed": 21,
+      "punt_touchbacks": 0,
+      "fg_made": 1,
+      "fg_attempts": 2,
+      "pat_made": 2,
+      "pat_attempts": 2,
+      "kick_returns_allowed": 3,
+      "kick_return_yards_allowed": 53,
+      "return_td_allowed": 0,
+      "net_punt_average": 43.57142857142857,
+      "source": "https://calbears.com/sports/football/stats/2026/unlv/boxscore/38595"
+    }
+  ],
+  "SGR": {
+    "UCLA": -0.06,
+    "Syracuse": 0.08,
+    "Clemson": -0.08
+  },
+  "UNLV_SGR": null
+}
