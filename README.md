@@ -2,9 +2,11 @@
 
 An independent, source-linked research snapshot through **October 3, 2026**, prepared October 4. The repository shares the underlying observations so readers can challenge assumptions, correct errors and reach their own conclusions.
 
-**[Read the complete report](docs/index.html)** · **[Browse the CSV data](data/)** · **[Sources](data/sources.csv)** · **[Definitions](DATA_DICTIONARY.md)** · **[Contribute](CONTRIBUTING.md)**
+**[Read the complete report](https://kentsai305.github.io/cal-football-open-analysis/)** · **[Browse the CSV data](data/)** · **[Sources](data/sources.csv)** · **[Definitions](DATA_DICTIONARY.md)** · **[Contribute](CONTRIBUTING.md)**
 
-The HTML report is preserved from the existing published analysis, including its three-question sequence, tables, citations and limitations. After GitHub Pages is enabled, use the public Pages link to read it in a browser; GitHub's repository file viewer displays HTML source.
+Public repository: [KenTsai305/cal-football-open-analysis](https://github.com/KenTsai305/cal-football-open-analysis).
+
+The HTML report is preserved from the existing published analysis, including its three-question sequence, tables, citations and limitations. Use the public Pages link to read it in a browser; GitHub's repository file viewer displays HTML source.
 
 ## What the snapshot reports
 
@@ -43,7 +45,7 @@ The approved report snapshot lives in `report/`. If changing observations, revie
 
 ## Publish with GitHub Pages
 
-This package uses GitHub Pages, not the previous ChatGPT-hosted site. In repository **Settings → Pages**, choose **Deploy from a branch**, select the default branch and **`/docs`**, then save. The site URL is normally `https://OWNER.github.io/REPOSITORY/`. Add the actual URL to this README after deployment. The root `.nojekyll` marker in `docs/` makes this a plain static site.
+This package uses GitHub Pages, not the previous ChatGPT-hosted site. In repository **Settings → Pages**, choose **Deploy from a branch**, select the default branch and **`/docs`**, then save. The published report URL is https://kentsai305.github.io/cal-football-open-analysis/. The root `.nojekyll` marker in `docs/` makes this a plain static site.
 
 ## Corrections and independent analyses
 
